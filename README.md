@@ -1,2 +1,2 @@
 # King-Music-Studio
-Website for Ms.King's piano lessons
+Welcome to Ms.King's Music Studio!
